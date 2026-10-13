@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-Backend developer specializing in building robust and scalable RESTful APIs using Node.js (Express.js). Experienced in managing databases and implementing integrated security systems for authentication and authorization.
+Backend developer specializing in building robust, secure, and scalable RESTful APIs using Node.js (Express.js)[cite: 1]. Experienced in applying Software Architecture Patterns (such as MVC, Repository, and Event-Driven architecture) to design clean and maintainable systems[cite: 1].
 
-* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia.
-* 🎯 Passionate about writing clean code, system design, designing database schemas, and building secure backend architectures.
-* ⚡ Fun fact: Committed to developing high-quality applications from design to deployment.
+* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia[cite: 1].
+* 🎯 Passionate about writing clean code, system design, database schemas, and building secure backend architectures from structural design to cloud deployment[cite: 1].
+* ⚡ Fun fact: Committed to developing high-quality applications following clean architectural principles[cite: 1].
 
 ---
 
@@ -32,6 +32,7 @@ Backend developer specializing in building robust and scalable RESTful APIs usin
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 #### **Databases, Security & Architecture**
@@ -40,21 +41,23 @@ Backend developer specializing in building robust and scalable RESTful APIs usin
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth & Security-FF6F00?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC & Security-FF6F00?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/System_Design-00A4E4?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
-#### **Tools & Frontend Basics**
+#### **Cloud, Tools & Architecture Patterns**
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-MVC%20%2F%20Repository-orange?style=for-the-badge" />
 </p>
 
 ---
 
-### 💼 Featured Projects
-* **E-commerce API:** Developed secure RESTful APIs with product management, reviews, and authentication.
-* **E-Learning Platform:** Built a backend supporting multiple user roles and permissions.
+### 💼 Featured Projects & Experience
+* **E-Commerce API:** Created a robust e-commerce API featuring product management, reviews, and structured data pipelines[cite: 1].
+* **E-Learning Platform:** Developed a scalable e-learning platform supporting multiple user roles, permissions, and structured course management[cite: 1].
+* **Full-Stack Applications:** Developed and deployed 3+ full-stack applications using Node.js following clean architectural principles[cite: 1].
