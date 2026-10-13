@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-Backend developer specializing in building robust, secure, and scalable RESTful APIs using Node.js (Express.js)[cite: 1]. Experienced in applying Software Architecture Patterns (such as MVC, Repository, and Event-Driven architecture) to design clean and maintainable systems[cite: 1].
+Backend developer specializing in building robust, secure, and scalable RESTful APIs using Node.js (Express.js). Experienced in applying Software Architecture Patterns (such as MVC, Repository, and Event-Driven architecture) to design clean and maintainable systems.
 
-* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia[cite: 1].
-* 🎯 Passionate about writing clean code, system design, database schemas, and building secure backend architectures from structural design to cloud deployment[cite: 1].
-* ⚡ Fun fact: Committed to developing high-quality applications following clean architectural principles[cite: 1].
+* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia.
+* 🎯 Passionate about writing clean code, system design, database schemas, and building secure backend architectures from structural design to cloud deployment.
+* ⚡ Fun fact: Committed to developing high-quality applications following clean architectural principles.
 
 ---
 
@@ -58,6 +58,6 @@ Backend developer specializing in building robust, secure, and scalable RESTful 
 ---
 
 ### 💼 Featured Projects & Experience
-* **E-Commerce API:** Created a robust e-commerce API featuring product management, reviews, and structured data pipelines[cite: 1].
-* **E-Learning Platform:** Developed a scalable e-learning platform supporting multiple user roles, permissions, and structured course management[cite: 1].
-* **Full-Stack Applications:** Developed and deployed 3+ full-stack applications using Node.js following clean architectural principles[cite: 1].
+* **E-Commerce API:** Created a robust e-commerce API featuring product management, reviews, and structured data pipelines.
+* **E-Learning Platform:** Developed a scalable e-learning platform supporting multiple user roles, permissions, and structured course management.
+* **Full-Stack Applications:** Developed and deployed 3+ full-stack applications using Node.js following clean architectural principles.
