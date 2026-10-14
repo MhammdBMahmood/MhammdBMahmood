@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/share/1BdJEXBXPv/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:mhammd6mahmoud7@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhammd6mahmoud7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/179wUvlfqdzXIGWvhG4l5Fi-rvy0-0h30/view?usp=drivesdk">
