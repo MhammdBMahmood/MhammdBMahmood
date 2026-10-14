@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/CV-1F4287?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 </p>
----
+                                                                     ---
 
 ### 🚀 About Me
 
