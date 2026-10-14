@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/179wUvlfqdzXIGWvhG4l5Fi-rvy0-0h30/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume%2F_CV-1F4287?style=for-the-badge&logo=googledocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-1F4287?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 </p>
 ---
